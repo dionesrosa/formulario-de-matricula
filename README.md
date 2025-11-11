@@ -1,4 +1,4 @@
-s<p align="center">
+<p align="center">
   <img src="assets/cover.jpg" alt="Formulário de Matrícula" style="height: 350px; margin: 50px;">
 </p>
 
