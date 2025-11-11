@@ -29,7 +29,7 @@
     background-color: var(--surface-secondary);
 
     & p {
-      color: var(--color-tertiary);
+      color: var(--text-tertiary);
     }
 
     & svg path {

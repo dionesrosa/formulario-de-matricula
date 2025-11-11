@@ -12,7 +12,7 @@ input, textarea, select {
 
 label {
   font: var(--text-sm);
-  color: var(--color-secondary);
+  color: var(--text-secondary);
   display: block;
   margin-bottom: .25rem;
 }
@@ -47,4 +47,12 @@ input[type="date"] {
 select {
   background: url(../../assets/icons/arrow-down-01.svg) no-repeat calc(100% - 1rem);
   padding-right: 1.5rem;
+}
+
+.address .flex {
+  gap: 1.25rem;
+}
+
+.input-wrapper:has([disabled]) {
+  opacity: .5;
 }
