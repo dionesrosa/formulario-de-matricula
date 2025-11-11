@@ -18,11 +18,3 @@ legend {
 fieldset + fieldset {
   margin-top: 3rem;
 }
-
-input {
-  &:disabled {
-    background: var(--surface-desabled);
-    border: 1px solid var(--stroke-default);
-    color: var(--text-primary);
-  }
-}
